@@ -109,7 +109,7 @@ namespace Matrícula
                     Form1 frmo = new Form1();
                     frmo.Show();
 
-                    
+                    f
                 }
                 else MessageBox.Show("Uusario y/o contraseña incorrecta");
 
